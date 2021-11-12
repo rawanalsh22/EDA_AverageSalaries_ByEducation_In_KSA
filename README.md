@@ -47,4 +47,3 @@
    
    
 ###### LOOK at the PROPOSAL in [Pptx](https://1drv.ms/p/s!AtiyW7xom5w2gQeoytwKbocwOT2G?e=ILxfSc) .
-by rawan alshehri & leena alshwaihi
