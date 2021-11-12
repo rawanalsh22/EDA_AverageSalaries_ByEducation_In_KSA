@@ -1,5 +1,6 @@
-# Average Salaries by Education in Saudi Arabia
+# Average Salaries by Education in Saudi Arabia 
 ###### This is an EDA project about a average Salaries in KSA.
+-> LOOK at the PROPOSAL in [Pptx](https://1drv.ms/p/s!AtiyW7xom5w2gQeoytwKbocwOT2G?e=ILxfSc) .
 <img src="https://upload.wikimedia.org/wikipedia/commons/0/06/Advanced_Electronics_Company_New_Logo.png"  width="250" height="250"> 
 
 
@@ -45,4 +46,4 @@
    >- SQL. 
    
    
-LOOK at the PROPOSAL in [Pptx](https://1drv.ms/p/s!AtiyW7xom5w2gQeoytwKbocwOT2G?e=ILxfSc) .
+##### LOOK at the PROPOSAL in [Pptx](https://1drv.ms/p/s!AtiyW7xom5w2gQeoytwKbocwOT2G?e=ILxfSc) .
