@@ -1,5 +1,5 @@
 # Average Salaries by Education in Saudi Arabia
-#### This is an EDA project for a average Salaries in Saudi Arabia.
+###### This is an EDA project about a average Salaries in KSA.
 <img src="https://upload.wikimedia.org/wikipedia/commons/0/06/Advanced_Electronics_Company_New_Logo.png"  width="250" height="250"> 
 
 
