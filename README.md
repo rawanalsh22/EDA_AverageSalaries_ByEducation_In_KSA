@@ -43,3 +43,6 @@
    >- Jupyter lab programing.
    >- PowerPoint for presentation.
    >- SQL. 
+   
+   
+LOOK at the PROPOSAL in [Pptx](https://1drv.ms/p/s!AtiyW7xom5w2gQeoytwKbocwOT2G?e=ILxfSc) .
