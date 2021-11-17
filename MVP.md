@@ -31,5 +31,5 @@ To start exploring this **goal**, I used a line chart  salary from 2017 - 2021 w
 >- master in 2017 between 12-26K in 2021 16-28k
 
 
-- so we define each year salary increases more only in 
+##### - so we define each year salary increases more only in 
  intermediate degree is same in all year so no change in salary.
