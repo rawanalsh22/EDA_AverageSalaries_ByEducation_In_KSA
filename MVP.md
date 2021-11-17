@@ -1,6 +1,6 @@
 # MVP For Average Salaries by Education in Saudi Arabia 
 
-### Objective of our project is analysis salary from 2017 to 2021 , results of this analysis may identify team members deserving more.
+### Objective of our project is analysis employee salary from 2017 till 2021 , results of this analysis may identify team members deserving more.
 
 ![newplot (3)](https://user-images.githubusercontent.com/93244403/142221497-099c26e3-882d-42e3-91c7-913eb10e4b46.png)
 
@@ -11,7 +11,7 @@
  
 - eche color descibes a educational grade.
 
-|Degree level |Color of line      |
+|Degree level |Color of line  |
 |:------------|:-----------------:|
 |Bachelor     |Blue               |
 |Diploma      |Red                |
@@ -31,4 +31,4 @@
 >- Doctorate degree was between 12-26K in 2017 and 16-28k in 2021.
 
 
-### - so we define each year salary increases more only in intermediate degree is same in all years.
+### - so we define each year employee salary increases more only in intermediate degree is same in all years.
