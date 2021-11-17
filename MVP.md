@@ -9,9 +9,9 @@ The Goal of our project is analysis salary , the results of this analysis may id
 To start exploring this **goal**, I used a line chart  salary from 2017 - 2021 with degree level
 
  
+-- eche color descibes a educational grade.
 
-
-|Degree level |The colore of line |
+|Degree level |The color of line  |
 |:------------|:-----------------:|
 |bachelor     |Blue               |
 |diploma      |red                |
@@ -28,7 +28,7 @@ To start exploring this **goal**, I used a line chart  salary from 2017 - 2021 w
 >- diploma in 2017 between 1-9K in 2021 3-10K
 >- bachelor in 2017 between 6-13K in 2021 5-13K
 >- master in 2017 between 10-17K in 2021 12-21k
->- master in 2017 between 12-26K in 2021 16-28k
+>- doctorate in 2017 between 12-26K in 2021 16-28k
 
 
 ##### - so we define each year salary increases more only in intermediate degree is same in all year so no change in salary.
