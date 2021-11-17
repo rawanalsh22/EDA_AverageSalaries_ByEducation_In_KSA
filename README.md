@@ -46,4 +46,4 @@ This is an EDA project about a average Salaries in KSA.
    >- SQL. 
    
    
-###### LOOK at the PROPOSAL in [Pptx](https://1drv.ms/p/s!AtiyW7xom5w2gQeoytwKbocwOT2G?e=ILxfSc) .
+###### LOOK at the PROPOSAL in [Pptx](https://1drv.ms/p/s!AtiyW7xom5w2gQeoytwKbocwOT2G?e=ILxfSc).
