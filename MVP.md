@@ -11,7 +11,7 @@
  
 - eche color descibes a educational grade.
 
-|Degree level |Color of line  |
+|Degree level |Color of line      |
 |:------------|:-----------------:|
 |Bachelor     |Blue               |
 |Diploma      |Red                |
