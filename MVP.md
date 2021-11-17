@@ -1,4 +1,4 @@
 # MVP For Average Salaries by Education in Saudi Arabia 
 
-<img src="https://drive.google.com/file/d/1fqZvmAHYW8-EcWIw_MTXiiBpSo-BUUjj/view"  width="250" height="250"> 
+<img src="C:\Users\Dell\Downloads"  width="250" height="250"> 
 ..
