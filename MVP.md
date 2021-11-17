@@ -15,7 +15,6 @@ To start exploring this goal, I used a line chart  salary from 2017 - 2021 with 
 |:------------|:-----------------:|
 |bachelor     |Blue               |
 |diploma      |red                |
-
 grean  doctorate
 purple  intermediate
 orange  master
