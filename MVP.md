@@ -15,17 +15,20 @@ To start exploring this **goal**, I used a line chart  salary from 2017 - 2021 w
 |:------------|:-----------------:|
 |bachelor     |Blue               |
 |diploma      |red                |
-|doctorate |  grean|
-intermediate  |   purple
- master | orange
-  primary  |  baby blue 
- secondary | pink secondary 
+|doctorate    |grean              |
+|intermediate |purple             |
+|master       |orange
+|primary      |baby blue 
+|secondary    |pink secondary 
 
->- After we analyse salary we find salary for primary degree was between 1-6K in 2017 and in 2021 decrees between 1-5K  
-secondary in 2017 between 3-8K in 2021 1-8K,
->- intermediate from 2017 until 2021 same between 1-7K , diploma in 2017 between 1-9K in 2021 3-10K,
->- bachelor in 2017 between 6-13 in 2021 5-13K, master in 2017 between 10-17 in 2021 12-21,
->- master in 2017 between 12-26 in 2021 16-28
+#### After we analyse salary we find salary for
+>- primary degree was between 1-6K in 2017 and in 2021 decrees between 1-5K  
+>- secondary in 2017 between 3-8K in 2021 1-8K
+>- intermediate from 2017 until 2021 same between 1-7K 
+>- diploma in 2017 between 1-9K in 2021 3-10K
+>- bachelor in 2017 between 6-13K in 2021 5-13K
+>- master in 2017 between 10-17K in 2021 12-21k
+>- master in 2017 between 12-26K in 2021 16-28k
 
 
 - so we define each year salary increases more only in 
