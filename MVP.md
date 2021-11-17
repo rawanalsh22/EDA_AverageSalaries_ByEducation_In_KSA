@@ -11,16 +11,16 @@ To start exploring this goal, I used a line chart  salary from 2017 - 2021 with 
  
 
 
-|Degree level |The colore |describe|
-|:------------|:---------:|--------|
-|bachelor     |Blue       | line   |
-Blue line describe bachelor 
-red describe diploma
-grean describe doctorate
-purple describe intermediate
-orange describe  master
-baby blue describe primary 
-pink describe secondary 
+|Degree level |The colore of line |
+|:------------|:-----------------:|
+|bachelor     |Blue               |
+|diploma      |red                |
+
+grean  doctorate
+purple  intermediate
+orange  master
+baby blue  primary 
+pink secondary 
 
 -> After we analyse salary we find salary for primary degree was between 1-6K in 2017 and in 2021 decrees between 1-5K , 
 secondary in 2017 between 3-8K in 2021 1-8K,
