@@ -12,6 +12,8 @@ To start exploring this goal, I used a line chart  salary from 2017 - 2021 with 
 
 
 |Degree level |The colore |describe|
+|:------------|:---------:|--------|
+|bachelor     |Blue       | line   |
 Blue line describe bachelor 
 red describe diploma
 grean describe doctorate
