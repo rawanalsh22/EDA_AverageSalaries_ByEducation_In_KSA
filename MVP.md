@@ -1,6 +1,6 @@
 # MVP For Average Salaries by Education in Saudi Arabia 
 
-## The Goal of our project is analysis salary , the results of this analysis may identify team members deserving of a strategic compensation adjustment more aligned with company values ​​or the law.
+### The Goal of our project is analysis salary , the results of this analysis may identify team members deserving of a strategic compensation adjustment more aligned with company values ​​or the law.
 
 ![newplot (3)](https://user-images.githubusercontent.com/93244403/142221497-099c26e3-882d-42e3-91c7-913eb10e4b46.png)
 
