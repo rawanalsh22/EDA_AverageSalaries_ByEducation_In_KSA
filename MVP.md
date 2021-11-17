@@ -21,7 +21,7 @@ To start exploring this **goal**, I used a line chart  salary from 2017 - 2021 w
 |primary      |baby blue 
 |secondary    |pink secondary 
 
-#### After we analyse salary we find salary for
+## After we analyse salary we find salary for
 >- primary degree was between 1-6K in 2017 and in 2021 decrees between 1-5K  
 >- secondary in 2017 between 3-8K in 2021 1-8K
 >- intermediate from 2017 until 2021 same between 1-7K 
@@ -31,4 +31,4 @@ To start exploring this **goal**, I used a line chart  salary from 2017 - 2021 w
 >- doctorate in 2017 between 12-26K in 2021 16-28k
 
 
-##### - so we define each year salary increases more only in intermediate degree is same in all year so no change in salary.
+### - so we define each year salary increases more only in intermediate degree is same in all year so no change in salary.
