@@ -1,6 +1,6 @@
 # MVP For Average Salaries by Education in Saudi Arabia 
 
-### Objective of our project is analysis salary , results of this analysis may identify team members deserving more.
+### Objective of our project is analysis salary from 2017 to 2021 , results of this analysis may identify team members deserving more.
 
 ![newplot (3)](https://user-images.githubusercontent.com/93244403/142221497-099c26e3-882d-42e3-91c7-913eb10e4b46.png)
 
