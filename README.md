@@ -40,10 +40,9 @@ This is an EDA project about a average Salaries in KSA.
 
  
  ## <a name='intro' >Tools:</a>
-   >- Python programing language (Panda –numpy).
+   >- Python programing language (Panda – numpy - seaborn - plotly express).
    >- Jupyter lab programing.
    >- PowerPoint for presentation.
-   >- SQL. 
    
    
 ###### LOOK at the PROPOSAL in [Pptx](https://1drv.ms/p/s!AtiyW7xom5w2gQeoytwKbocwOT2G?e=ILxfSc).
