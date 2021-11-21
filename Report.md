@@ -14,11 +14,14 @@
   Database source is general authority for statistics (GASTA) https://www.stats.gov.sa/  this study covering the last 5 years from 2017 till 2021 end of June..
 
 ### 4. Algorithms
-  1- Problem understanding
-  2- Data collection
-  3- Data preparation
-  4- Explore data
-  5- Findings and insights
+  1- Problem understanding  
+  
+  2- Data collection  
+  
+  3- Data preparation 
+  
+  4- Explore data 
+  5- Findings and insights  
 
 ### 5. Tools
 • Technologies
