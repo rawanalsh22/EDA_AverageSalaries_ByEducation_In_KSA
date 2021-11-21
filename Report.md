@@ -1,7 +1,4 @@
-# final Report 
-
-                    
-                                  
+# Final Report                            
                                   
 ### 1. Abstract
   Advanced Electronics Company (AEC) is a limited liability company in Saudi Arabia that was established in 1988 under the Economic Offset Program as per the directives of the government of Saudi Arabia. 
