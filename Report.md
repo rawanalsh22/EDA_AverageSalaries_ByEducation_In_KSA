@@ -24,6 +24,8 @@
 • Technologies
 - Python
 - Jupyter Notebook
+
+
 • Libraries
 1. NumPy
 2. Pandas
