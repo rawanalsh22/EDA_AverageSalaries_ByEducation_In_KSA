@@ -25,9 +25,16 @@
 - Python
 - Jupyter Notebook
 
-
 • Libraries
-1. NumPy
-2. Pandas
-3. Plotly
-4. seaborn
+- NumPy
+- Pandas
+- Seaborn
+- Plotly
+
+Salary & Gender
+- Males earning more than females 
+![newplot (4)](https://user-images.githubusercontent.com/93244403/142775825-188dfef6-9d46-478d-83b2-bd9668a3ca29.png)
+
+
+Comprehensive analysis of the database, which shows us the educational level, gender, nationality in addition to the quarter of all 5 years..
+![newplot (7)](https://user-images.githubusercontent.com/93244403/142775838-d71c8455-9d6d-4089-a23e-7aa8071d7dd4.png)
